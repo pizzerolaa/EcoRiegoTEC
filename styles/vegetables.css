@@ -68,7 +68,7 @@ nav a:hover {
 
 /*MAIN STYLE*/
 
-.plants-main-container {
+.vegetables-main-container {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -76,14 +76,14 @@ nav a:hover {
   padding: 20px;
 }
 
-.plants-main-container h1 {
+.vegetables-main-container h1 {
   font-size: 2rem;
   font-weight: 600;
   margin: 0;
   color: white;
 }
 
-.plants-main-container h4 {
+.vegetables-main-container h4 {
   font-size: 1.5rem;
   font-weight: 400;
   margin: 0;
@@ -91,14 +91,14 @@ nav a:hover {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.plants-main-container p {
+.vegetables-main-container p {
   font-size: 1.2rem;
   font-weight: 400;
   margin: 0;
   color: white;
 }
 
-.plants-main-text {
+.vegetables-main-text {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -106,14 +106,14 @@ nav a:hover {
   padding: 0px;
 }
 
-.plants-main-text h1 {
+.vegetables-main-text h1 {
   font-size: 2rem;
   font-weight: 600;
   margin: 0;
   color: white;
 }
 
-.plants-presentation-title {
+.vegetables-presentation-title {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -121,20 +121,20 @@ nav a:hover {
   padding: 4vh;
 }
 
-.plants-presentation-title h1 {
+.vegetables-presentation-title h1 {
   font-size: 5em;
   font-weight: 600;
   margin: 0;
   color: white;
 }
 
-.plants-columns-section {
+.vegetables-columns-section {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.plants-columns-section section {
+.vegetables-columns-section section {
   width: 300px;
   padding: 20px;
   margin: 10px;
@@ -144,7 +144,7 @@ nav a:hover {
   align-items: center;
 }
 
-.plants-columns-images {
+.vegetables-columns-images {
   display: flex;
   flex-wrap: wrap;
   gap: 56px;
@@ -153,7 +153,7 @@ nav a:hover {
   align-items: center;
 }
 
-.plants-columns-images section .plants-columns-images {
+.vegetables-columns-images section .vegetables-columns-images {
   display: flex;
   flex-wrap: wrap;
   gap: 26px;
@@ -162,22 +162,22 @@ nav a:hover {
   align-items: center;
 }
 
-.plants-columns-images img {
+.vegetables-columns-images img {
   width: 100%;
   height: 200px;
   object-fit: cover;
 }
 
-.plants-columns-images a {
+.vegetables-columns-images a {
   text-decoration: underline;
   color: rgba(4, 124, 30, 0.774);
 }
 
-.plants-columns-images a:hover {
+.vegetables-columns-images a:hover {
   color: rgba(5, 255, 59, 0.774);
 }
 
-.plants-vegetables-image {
+.vegetables-lechuga-image {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -187,14 +187,14 @@ nav a:hover {
   border-radius: 20px;
 }
 
-.plants-vegetables-image img {
+.vegetables-lechuga-image img {
   width: 100%;
   height: 200px;
   object-fit: cover;
   background-color: #fff;
 }
 
-.plants-vegetables-text {
+.vegetables-lechuga-text {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -203,7 +203,7 @@ nav a:hover {
   border-radius: 20px;
 }
 
-.plants-trees-image {
+.vegetables-tomate-image {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -213,14 +213,14 @@ nav a:hover {
   border-radius: 20px;
 }
 
-.plants-trees-image img {
+.vegetables-tomate-image img {
   width: 100%;
   height: 200px;
   object-fit: cover;
   background-color: #fff;
 }
 
-.plants-trees-text {
+.vegetables-tomate-text {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -229,7 +229,7 @@ nav a:hover {
   border-radius: 20px;
 }
 
-.plants-gardens-image {
+.vegetables-pimiento-image {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -239,14 +239,14 @@ nav a:hover {
   border-radius: 20px;
 }
 
-.plants-gardens-image img {
+.vegetables-pimiento-image img {
   width: 100%;
   height: 200px;
   object-fit: cover;
   background-color: #fff;
 }
 
-.plants-gardens-text {
+.vegetables-pimiento-text {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -255,7 +255,7 @@ nav a:hover {
   border-radius: 20px;
 }
 
-.plants-greenhouses-image {
+.vegetables-berenjena-image {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -265,14 +265,14 @@ nav a:hover {
   border-radius: 20px;
 }
 
-.plants-greenhouses-image img {
+.vegetables-berenjena-image img {
   width: 100%;
   height: 200px;
   object-fit: cover;
   background-color: #fff;
 }
 
-.plants-greenhouses-text {
+.vegetables-berenjena-text {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -281,7 +281,7 @@ nav a:hover {
   border-radius: 20px;
 }
 
-.plants-ornamentals-image {
+.vegetables-calabacin-image {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -291,14 +291,14 @@ nav a:hover {
   border-radius: 20px;
 }
 
-.plants-ornamentals-image img {
+.vegetables-calabacin-image img {
   width: 100%;
   height: 200px;
   object-fit: cover;
   background-color: #fff;
 }
 
-.plants-ornamentals-text {
+.vegetables-calabacin-text {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -520,7 +520,7 @@ footer {
   }
 
   /*MAIN STYLE*/
-  .plants-presentation-title {
+  .vegetables-presentation-title {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -528,27 +528,27 @@ footer {
     padding: 3vh;
   }
 
-  .plants-presentation-title h1 {
+  .vegetables-presentation-title h1 {
     font-size: 3rem;
     font-weight: 600;
     margin: 0;
     color: white;
   }
 
-  .plants-columns-section {
+  .vegetables-columns-section {
     flex-direction: column;
   }
 
-  .plants-columns-section section {
+  .vegetables-columns-section section {
     width: 100%;
     margin: 10px 0;
   }
 
-  .plants-columns-images {
+  .vegetables-columns-images {
     gap: 26px;
   }
 
-  .plants-columns-images img {
+  .vegetables-columns-images img {
     height: auto;
   }
 
@@ -576,16 +576,16 @@ footer {
 }
 
 @media (min-width: 769px) {
-  .plants-columns-section {
+  .vegetables-columns-section {
     flex-direction: row;
   }
 
-  .plants-columns-section section {
+  .vegetables-columns-section section {
     width: 300px;
     margin: 10px;
   }
 
-  .plants-columns-images img {
+  .vegetables-columns-images img {
     height: 200px;
   }
 }

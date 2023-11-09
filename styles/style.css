@@ -58,6 +58,10 @@ nav a {
   font-size: 1.2rem;
 }
 
+nav a:hover {
+  color: rgba(5, 255, 59, 0.774);
+}
+
 .menu-button {
   display: none;
 }

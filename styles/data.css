@@ -68,6 +68,247 @@ nav a:hover {
 
 /*MAIN STYLE*/
 
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.main-container h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 0;
+  color: white;
+}
+
+.main-container p {
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: 0;
+  color: white;
+}
+
+.main-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: justify;
+  padding: 0px;
+}
+
+.main-text h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 0;
+  color: white;
+}
+
+.main-text p {
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: 0;
+  color: white;
+  align-items: justify;
+}
+
+.presentation-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.presentation-title h1 {
+  font-size: 6em;
+  font-weight: 600;
+  margin: 0;
+  color: white;
+}
+
+.presentation-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  padding: 1vh;
+}
+
+.presentation-text h1 {
+  font-size: 2em;
+  font-weight: 600;
+  margin: 0;
+  color: white;
+}
+
+.presentation-text p {
+  font-size: 1.2em;
+  font-weight: 400;
+  margin: 0;
+  color: white;
+  align-items: justify;
+}
+
+.presentation-text-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1vh;
+}
+
+.presentation-text-text p {
+  font-size: 1.5em;
+  font-weight: 400;
+  margin: 0;
+  color: white;
+  align-items: justify;
+}
+
+.presentation-text-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 0 11px rgba(5, 255, 59, 0.774);
+}
+
+.presentation-text-img img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  background-color: #fff;
+}
+
+.presentation-text-plant-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.presentation-text-plant-name p {
+  font-size: 1.5em;
+  font-weight: 400;
+  margin: 0;
+  color: white;
+  align-items: justify;
+}
+
+.presentation-text-plant-name p:hover {
+  color: rgba(5, 255, 59, 0.774);
+}
+
+.important-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.important-info-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.important-info-text h4 {
+  font-size: 2em;
+  font-weight: 400;
+  margin: 0;
+  color: white;
+  align-items: justify;
+}
+
+.important-info-text-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.important-info-text-text p {
+  font-size: 1.2em;
+  font-weight: 400;
+  margin: 0;
+  color: white;
+  align-items: justify;
+}
+
+.important-info-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.important-info-data p {
+  font-size: 1.5em;
+  font-weight: 400;
+  margin: 0;
+  color: white;
+  align-items: justify;
+}
+
+.important-info-data-temp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.important-info-data-hum {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.important-info-data-lum {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.important-info-data-ph {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.important-info-graph {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.important-info-graph p {
+  font-size: 1.5em;
+  font-weight: 400;
+  margin: 0;
+  color: white;
+  align-items: justify;
+}
+
 /*FOOTER STYLE*/
 
 :root {
@@ -281,6 +522,69 @@ footer {
   }
 
   /*MAIN STYLE*/
+
+  .presentation-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3vh;
+  }
+
+  .presentation-title h1 {
+    font-size: 3rem;
+    font-weight: 600;
+    margin: 0;
+    color: white;
+  }
+
+  .presentation-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    padding: 1vh;
+  }
+
+  .presentation-text p {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 0;
+    color: white;
+    align-items: justify;
+  }
+
+  .presentation-text img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    background-color: #fff;
+  }
+
+  .important-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+
+  .important-info p {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 0;
+    color: white;
+    align-items: justify;
+  }
+
+  .important-info-text-text {
+    margin: 0;
+    align-items: center;
+    padding: 2%;
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+  }
 
   /*FOOTER STYLE*/
   .footer-top {

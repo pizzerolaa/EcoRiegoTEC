@@ -55,4 +55,4 @@ EL SOFTWARE.
 ```
 
 ## Contacto
-[Tus datos de contacto o los del equipo de desarrollo]
+Correo: falg.0309@gmail.com

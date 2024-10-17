@@ -48,4 +48,4 @@ Fernando López - [falg.0309@gmail.com](mailto:falg.0309@gmail.com)
 
 ---
 
-Hecho con ❤️ por Fernando López
+Hecho con ❤️ por Fher García

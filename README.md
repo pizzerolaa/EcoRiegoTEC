@@ -13,7 +13,7 @@
 
 EcoRiegoTEC es un sistema de monitoreo en tiempo real para plantas, que integra hardware (sensores) con una aplicación web. Desarrollado para la materia de IOT durante el semestre Agosto - Diciembre 2023.
 
-![image](https://github.com/pizzerolaa/EcoRiegoTEC/images/demo.png)
+![image](https://github.com/pizzerolaa/EcoRiegoTEC/blob/main/images/demo.png)
 
 ## ✨ Características principales
 

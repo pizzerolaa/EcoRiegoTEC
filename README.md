@@ -1,58 +1,51 @@
-# EcoRiegoTEC
+# 🌱 EcoRiegoTEC
 
-## Descripción
-EcoRiegoTEC es un sistema de monitoreo en tiempo real para plantas, que integra hardware (sensores) con una aplicación web. El proyecto fue desarrollado para la materia de IOT durante el semestre Agosto - Diciembre 2023, utilizando tecnologías como HTML, Express, Node.js, Firebase y Arduino.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-14.x-green)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-4.x-lightgrey)](https://expressjs.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-9.x-orange)](https://firebase.google.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-IDE-teal)](https://www.arduino.cc/en/software)
 
-## Características principales
-- Interfaz de usuario interactiva desarrollada con HTML, CSS y JavaScript para visualizar datos de sensores en tiempo real.
-- Integración de múltiples sensores electrónicos (humedad, proximidad, nivel de pH) para recopilar datos precisos sobre el estado de las plantas utilizando Arduino IDE.
-- Actualizaciones de datos en tiempo real en el frontend, permitiendo a los usuarios ver cambios instantáneos en las mediciones de los sensores.
-- Sistema IoT (Internet de las Cosas) completo que demuestra habilidades en desarrollo web, programación de microcontroladores y gestión de bases de datos.
-- Gráficos históricos interactivos para visualizar tendencias a lo largo del tiempo en los datos recopilados.
+## 📋 Descripción
 
-## Tecnologías utilizadas
-- HTML
-- CSS
-- JavaScript
-- Express
-- Node.js
-- Firebase
-- Arduino IDE
+EcoRiegoTEC es un sistema de monitoreo en tiempo real para plantas, que integra hardware (sensores) con una aplicación web. Desarrollado para la materia de IOT durante el semestre Agosto - Diciembre 2023.
 
-## Logros
-- Desarrollo de un sistema de monitoreo en tiempo real para plantas.
-- Implementación de una interfaz de usuario interactiva y fácil de usar.
-- Integración exitosa de hardware (sensores) con una aplicación web.
-- Creación de un sistema IoT completo y funcional.
-- Diseño e implementación de gráficos interactivos para visualización de datos históricos.
+![EcoRiegoTEC Demo](https://via.placeholder.com/600x300.png?text=EcoRiegoTEC+Demo)
 
+## ✨ Características principales
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulte el archivo `LICENSE` para obtener más detalles.
+- 📊 Interfaz de usuario interactiva para visualización de datos en tiempo real
+- 🔌 Integración de múltiples sensores (humedad, proximidad, pH)
+- 🔄 Actualizaciones de datos en tiempo real
+- 📈 Gráficos históricos interactivos
+- 🌐 Sistema IoT completo
 
-```
-MIT License
+## 🛠️ Tecnologías utilizadas
 
-Copyright (c) 2023 Fernando López
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Base de datos: Firebase
+- Hardware: Arduino IDE
 
-Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
-de este software y archivos de documentación asociados (el "Software"), para tratar
-el Software sin restricciones, incluyendo, sin limitación, los derechos
-de usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
-copias del Software, y permitir a las personas a quienes se les proporcione el Software
-hacer lo mismo, sujeto a las siguientes condiciones:
+## 🏆 Logros
 
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas
-las copias o partes sustanciales del Software.
+- Desarrollo de un sistema de monitoreo en tiempo real
+- Implementación de una interfaz de usuario intuitiva
+- Integración exitosa de hardware con aplicación web
+- Creación de un sistema IoT completo y funcional
+- Diseño de gráficos interactivos para visualización de datos históricos
 
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
-IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
-IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
-AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN,
-DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO,
-QUE SURJA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN
-EL SOFTWARE.
-```
+## 📄 Licencia
 
-## Contacto
-Correo: falg.0309@gmail.com
+Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+
+## 📞 Contacto
+
+Fernando López - [falg.0309@gmail.com](mailto:falg.0309@gmail.com)
+
+---
+
+Hecho con ❤️ por Fernando López

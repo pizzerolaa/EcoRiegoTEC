@@ -30,6 +30,36 @@ EcoRiegoTEC es un sistema de monitoreo en tiempo real para plantas, que integra 
 - Base de datos: Firebase
 - Hardware: Arduino IDE
 
+## 🖥️ Requisitos de hardware
+
+Para implementar este proyecto, se necesita:
+
+- Arduino UNO
+- ESP32
+
+Asegúrate de tener estos componentes antes de comenzar la instalación.
+
+## 🚀 Instalación
+
+1. Clona el repositorio:
+   ```
+   git clone https://github.com/pizzerolaa/EcoRiegoTEC.git
+   ```
+2. Navega al directorio del proyecto:
+   ```
+   cd EcoRiegoTEC
+   ```
+3. Instala las dependencias (asegúrate de tener Node.js instalado):
+   ```
+   npm install
+   ```
+4. Configura tu Arduino UNO y ESP32 según las instrucciones en la carpeta `hardware/`.
+
+5. Inicia la aplicación:
+   ```
+   npm start
+   ```
+
 ## 🏆 Logros
 
 - Desarrollo de un sistema de monitoreo en tiempo real
